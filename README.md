@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @0xDevBuilds
+- 👋 Hi, I’m @0xHiei
 - 👀 I’m interested in writing smart contracts and building web3 apps
-- 📫 How to reach me: https://twitter.com/_0xDev 
+- 📫 How to reach me: https://twitter.com/0xHiei 
 <!--- 
 🌱 I’m currently learning 
 💞️ I’m looking to collaborate on ...
